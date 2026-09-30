@@ -1,3 +1,11 @@
+# GitHub: https://github.com/ShikiRyo1/apan5560-assignment1
+# From this directory on a computer with Docker Desktop (Linux containers):
+# docker build -t assignment1 .
+# docker run --rm --name assignment1 -p 127.0.0.1:8000:8000 assignment1
+# Then open http://127.0.0.1:8000/docs
+# Example: http://127.0.0.1:8000/embedding?word=apple
+# First build needs internet access; all dependencies and the model are included.
+
 FROM ghcr.io/astral-sh/uv:0.12.19 AS uv
 
 FROM python:3.12-slim-bookworm

@@ -2,7 +2,6 @@
 name = "assignment1-word-embedding-api"
 version = "1.0.0"
 description = "FastAPI word embeddings and the course bigram text generator"
-readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
     "fastapi==0.141.1",
