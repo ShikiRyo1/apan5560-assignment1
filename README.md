@@ -4,7 +4,7 @@ This project adds a spaCy word-vector endpoint to the course FastAPI application
 
 Repository: https://github.com/ShikiRyo1/apan5560-assignment1
 
-The repository is private, so a reviewer needs repository access to view or clone it. The submitted source ZIP is self-contained: extract it, open a terminal in the directory containing `pyproject.toml`, and follow either run method below. A GitHub login is not required to run the extracted project.
+The repository is public, so a reviewer can view or clone it directly. The submitted source ZIP is self-contained: extract it, open a terminal in the directory containing `pyproject.toml`, and follow either run method below. A GitHub login is not required to run the extracted project.
 
 ## Requirements
 
